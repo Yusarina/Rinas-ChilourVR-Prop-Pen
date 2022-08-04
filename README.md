@@ -16,7 +16,7 @@ Image of the original version below.
 
 
 Version 2:
-This pen works by holding it and then pressing the trigger to white, it has 5 colours, White, Black, Red, Green and Blue. It also has a erase button at the end of the pen. 
+This pen works by holding it and then pressing the trigger to write, it has 5 colours, White, Black, Red, Green and Blue. It also has a erase button at the end of the pen. 
 
 To use the buttons you need to use your pointer, like you would with UI buttons.
 
