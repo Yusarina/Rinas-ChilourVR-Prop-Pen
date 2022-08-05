@@ -30,3 +30,5 @@ Images of version 2 below:
 Reguarding License:
 
 You are free to use the pen in anyway you want, the pen models are made by me, so feel free to use them as you see fit. Just give me credit if anyone asks.
+
+You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrpen
