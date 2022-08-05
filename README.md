@@ -8,7 +8,7 @@ Unity 2019.4.31f1
 There are two versions of this pen:
 
 Version 1:
-Has 4 colours Red, Green, White and Green, The pen keep writing unto you turn it off. It has a on and off buttons and a erase button. This version isn't great and was made in 30 minutes, I only include it because it is the original version. 
+Has 4 colours Red, Green, White and Black, The pen keep writing unto you turn it off. It has a on and off buttons and a erase button. This version isn't great and was made in 30 minutes, I only include it because it is the original version. 
 
 Image of the original version below.
 
