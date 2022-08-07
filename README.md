@@ -6,8 +6,8 @@ A Pen which is a prop for ChlloutVR
 - Join my discord server: https://discord.gg/T8zYhgvcpF
 
 Requirments:
-ChilloutVR CCK 
-Unity 2019.4.31f1
+- ChilloutVR CCK 
+- Unity 2019.4.31f1
 
 There are two versions of this pen:
 
