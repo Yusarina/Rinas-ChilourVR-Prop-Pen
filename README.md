@@ -6,8 +6,9 @@ A Pen which is a prop for ChlloutVR
 - Join my discord server: https://discord.gg/T8zYhgvcpF
 
 Requirments:
-- ChilloutVR CCK 
 - Unity 2019.4.31f1
+- ChilloutVR CCK 3.3
+- Basic Unity and CVR knowledge.
 
 There are two versions of this pen:
 
@@ -25,6 +26,10 @@ Similar to version two, but now has a new model which looks better, version 3 do
 To use the buttons you need to use your pointer, like you would with UI buttons.
 
 Note: Version 1 is now obsolete and has been removed in new package versions.
+
+How to upload:
+
+Simply start a new project, import CVR's CCK and Import the Unity Package provided then upload. 
 
 Images of version 2 below:
 
