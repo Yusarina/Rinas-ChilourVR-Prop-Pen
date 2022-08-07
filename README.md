@@ -9,18 +9,18 @@ Unity 2019.4.31f1
 
 There are two versions of this pen:
 
-Version 1:
-Has 4 colours Red, Green, White and Black, The pen keep writing unto you turn it off. It has a on and off buttons and a erase button. This version isn't great and was made in 30 minutes, I only include it because it is the original version. 
-
-Image of the original version below.
-
-![alt text](https://i.imgur.com/PCKJSYY.jpeg)
-
-
 Version 2:
 This pen works by holding it and then pressing the trigger to write, it has 5 colours, White, Black, Red, Green and Blue. It also has a erase button at the end of the pen. 
 
 To use the buttons you need to use your pointer, like you would with UI buttons.
+
+
+Version 3: (NOTE TESTED IN-GAME DUE TO SERVERS BEING DOWN).
+Similar too version two, but now has a new model which looks better, version 3 does not use any animations and uses method calls instead, version 3 is currently experimental so version 2 is recommended for now. Version 3 also has 8 colors, White, Black, Red, Green, Blue, Orange, Purple and Pink. 
+
+To use the buttons you need to use your pointer, like you would with UI buttons.
+
+Note: Version 1 is now obsolete and has been removed in new package versions.
 
 Images of version 2 below:
 
