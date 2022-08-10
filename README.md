@@ -19,7 +19,7 @@ This pen works by holding it and then pressing the trigger to write, it has 5 co
 To use the buttons you need to use your pointer, like you would with UI buttons.
 
 
-Version 3 (NOTE TESTED IN-GAME DUE TO SERVERS BEING DOWN):
+Version 3 (Recomended version):
 
 Similar to version two, but now has a new model which looks better, version 3 does not use any animations and uses method calls instead, version 3 is currently experimental so version 2 is recommended for now. Version 3 also has 8 colors, White, Black, Red, Green, Blue, Orange, Purple and Pink. 
 
