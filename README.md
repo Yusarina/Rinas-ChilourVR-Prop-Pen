@@ -5,7 +5,7 @@ A Pen which is a prop for ChlloutVR
 - Find more assets on my website: https://jolia.xyz
 - Join my discord server: https://discord.gg/T8zYhgvcpF
 
-Requirments:
+Requirements:
 - Unity 2019.4.31f1
 - ChilloutVR CCK 3.3
 - Basic Unity and CVR knowledge.
@@ -18,8 +18,7 @@ This pen works by holding it and then pressing the trigger to write, it has 5 co
 
 To use the buttons you need to use your pointer, like you would with UI buttons.
 
-
-Version 3 (Recomended version):
+Version 3 (Recommended version):
 
 Similar to version two, but now has a new model which looks better, version 3 does not use any animations and uses method calls instead, version 3 is currently experimental so version 2 is recommended for now. Version 3 also has 8 colors, White, Black, Red, Green, Blue, Orange, Purple and Pink. 
 
@@ -30,6 +29,13 @@ Note: Version 1 is now obsolete and has been removed in new package versions.
 How to upload:
 
 Simply start a new project, import CVR's CCK and Import the Unity Package provided then upload. 
+
+Version 3 images below:
+![alt text](https://cloud.jolia.xyz/s/GP5kdn4LEeMWpg4/download/ChilloutVR-2022-08-10_12-24-35.png)
+![alt text](https://cloud.jolia.xyz/s/L24SNzXPtSoYxGY/download/ChilloutVR-2022-08-10_12-24-46.png)
+![alt text](https://cloud.jolia.xyz/s/ZDneKAx8JA56K6E/download/ChilloutVR-2022-08-10_12-25-39.png)
+![alt text](https://cloud.jolia.xyz/s/EQoFcoS9NdT8PjM/download/ChilloutVR-2022-08-10_12-25-59.png)
+
 
 Images of version 2 below:
 
