@@ -1,4 +1,6 @@
 # Jolia's ChilloutVR Prop Pen
+A RECENT CVR UPDATE BROKE THESE PEN'S, I WORKING ON A FIX BUT I GOING TO HAVE REMAKE SOME THINGS SO IT COULD BE A DAY OR TWO BEFORE THERE ARE FIXED.
+
 A Pen which is a prop for ChlloutVR
 
 - You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrpen
