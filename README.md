@@ -1,5 +1,5 @@
 # Jolia's ChilloutVR Prop Pen
-Version 0.3.1 now works over the network, please ensure you update!
+Version 0.3.2 now works over the network, please ensure you update!
 
 A Pen which is a prop for ChlloutVR
 
