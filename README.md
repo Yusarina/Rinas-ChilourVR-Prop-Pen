@@ -1,5 +1,5 @@
 # Jolia's ChilloutVR Prop Pen
-A RECENT CVR UPDATE BROKE THESE PEN'S, I WORKING ON A FIX BUT I GOING TO HAVE REMAKE SOME THINGS SO IT COULD BE A DAY OR TWO BEFORE THERE ARE FIXED.
+Version 0.3.1 now works over the network, please ensure you update!
 
 A Pen which is a prop for ChlloutVR
 
@@ -22,7 +22,7 @@ To use the buttons you need to use your pointer, like you would with UI buttons.
 
 Version 3 (Recommended version):
 
-Similar to version two, but now has a new model which looks better, version 3 does not use any animations and uses method calls instead, version 3 is currently experimental so version 2 is recommended for now. Version 3 also has 8 colors, White, Black, Red, Green, Blue, Orange, Purple and Pink. 
+Similar to version two, but now has a new model which looks better, Version 3 also has 8 colors, White, Black, Red, Green, Blue, Orange, Purple and Pink. 
 
 To use the buttons you need to use your pointer, like you would with UI buttons.
 
