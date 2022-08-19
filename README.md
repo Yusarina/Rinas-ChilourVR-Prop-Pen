@@ -14,13 +14,13 @@ Requirements:
 
 There are two versions of this pen:
 
-Version 2:
+Version 2.1:
 
 This pen works by holding it and then pressing the trigger to write, it has 5 colours, White, Black, Red, Green and Blue. It also has a erase button at the end of the pen. 
 
 To use the buttons you need to use your pointer, like you would with UI buttons.
 
-Version 3 (Recommended version):
+Version 3.1 (Recommended version):
 
 Similar to version two, but now has a new model which looks better, Version 3 also has 8 colors, White, Black, Red, Green, Blue, Orange, Purple and Pink. 
 
