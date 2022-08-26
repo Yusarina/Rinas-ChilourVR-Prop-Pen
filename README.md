@@ -5,7 +5,7 @@ A Pen which is a prop for ChlloutVR
 
 - You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrpen
 - Find more assets on my website: https://jolia.xyz
-- Join my discord server: https://discord.gg/T8zYhgvcpF
+- Join my discord server: https://discord.gg/dR6ekufKSM
 
 Requirements:
 - Unity 2019.4.31f1
