@@ -33,10 +33,10 @@ How to upload:
 Simply start a new project, import CVR's CCK and Import the Unity Package provided then upload. 
 
 Version 3 images below:
-![alt text](https://cloud.jolia.xyz/s/GP5kdn4LEeMWpg4/download/ChilloutVR-2022-08-10_12-24-35.png)
-![alt text](https://cloud.jolia.xyz/s/L24SNzXPtSoYxGY/download/ChilloutVR-2022-08-10_12-24-46.png)
-![alt text](https://cloud.jolia.xyz/s/ZDneKAx8JA56K6E/download/ChilloutVR-2022-08-10_12-25-39.png)
-![alt text](https://cloud.jolia.xyz/s/EQoFcoS9NdT8PjM/download/ChilloutVR-2022-08-10_12-25-59.png)
+![alt text](https://i.imgur.com/LZXeNFM.jpg)
+![alt text](https://i.imgur.com/ncHJ0CQ.jpg)
+![alt text](https://i.imgur.com/zROgfn2.jpg)
+![alt text](https://i.imgur.com/6mKJDyq.jpg)
 
 
 Images of version 2 below:
