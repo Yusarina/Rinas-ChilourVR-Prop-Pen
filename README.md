@@ -9,9 +9,9 @@ A Pen which is a prop for ChlloutVR
 
 Requirements:
 
-Unity 2019.4.31f1
-ChilloutVR CCK 3.3
-Basic Unity and CVR knowledge.
+- Unity 2019.4.31f1
+- ChilloutVR CCK 3.3
+- Basic Unity and CVR knowledge.
 
 This pen has 8 Different Colours: White, Black, Red, Green, Blue, Orange, Purple and Pink, it also has an erase button so you can easily erase any mistakes you make.
 
