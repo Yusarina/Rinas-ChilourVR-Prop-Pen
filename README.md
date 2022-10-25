@@ -3,8 +3,8 @@ Please make sure you use version 0.3.2 and above, older versions are not support
 
 A Pen which is a prop for ChlloutVR
 
-- See my gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
-- See my github: https://github.com/JoliaVR/Jolia-s-World-Pen-s-For-ChilloutVR
+- See my gumroad: https://joliavr.gumroad.com/
+- See my github: https://github.com/JoliaVR/
 - Join my discord server: https://discord.gg/dR6ekufKSM
 
 Requirements:
