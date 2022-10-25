@@ -1,51 +1,45 @@
 # Jolia's ChilloutVR Prop Pen
-Version 0.3.2 now works over the network, please ensure you update!
+Please make sure you use version 0.3.2 and above, older versions are not supported due to bugs.
 
 A Pen which is a prop for ChlloutVR
 
-- You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliascvrpen
-- Find more assets on my website: https://jolia.xyz
+- See my gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
+- See my github: https://github.com/JoliaVR/Jolia-s-World-Pen-s-For-ChilloutVR
 - Join my discord server: https://discord.gg/dR6ekufKSM
 
 Requirements:
-- Unity 2019.4.31f1
-- ChilloutVR CCK 3.3
-- Basic Unity and CVR knowledge.
 
-There are two versions of this pen:
+Unity 2019.4.31f1
+ChilloutVR CCK 3.3
+Basic Unity and CVR knowledge.
 
-Version 2.1:
+This pen has 8 Different Colours: White, Black, Red, Green, Blue, Orange, Purple and Pink, it also has an erase button so you can easily erase any mistakes you make.
 
-This pen works by holding it and then pressing the trigger to write, it has 5 colours, White, Black, Red, Green and Blue. It also has a erase button at the end of the pen. 
+How to use:
 
-To use the buttons you need to use your pointer, like you would with UI buttons.
+- To write, press your trigger button (Or Left mouse button).
+- To erase, there is a button at the end of the pen press it and it will erase the colour you currently have (Note you may have to point at it like you do will UI).
+- To change colour, there is a button on the pen (See below image) which changes the colour (Note you may have to point at it like you do will UI).
 
-Version 3.1 (Recommended version):
-
-Similar to version two, but now has a new model which looks better, Version 3 also has 8 colors, White, Black, Red, Green, Blue, Orange, Purple and Pink. 
-
-To use the buttons you need to use your pointer, like you would with UI buttons.
-
-Note: Version 1 is now obsolete and has been removed in new package versions.
+![alt text](https://i.imgur.com/fIL9Gnr.jpg)
 
 How to upload:
 
-Simply start a new project, import CVR's CCK and Import the Unity Package provided then upload. 
+Simply start a new project, import CVR's CCK and Import the Unity Package provided, then just upload it.
 
-Version 3 images below:
-![alt text](https://i.imgur.com/LZXeNFM.jpg)
-![alt text](https://i.imgur.com/ncHJ0CQ.jpg)
-![alt text](https://i.imgur.com/zROgfn2.jpg)
-![alt text](https://i.imgur.com/6mKJDyq.jpg)
+Issues?
 
-
-Images of version 2 below:
-
-![alt text](https://i.imgur.com/RFIZcSF.png)
-![alt text](https://i.imgur.com/oLyzmUb.png)
-![alt text](https://i.imgur.com/X1rLAj4.png)
-![alt text](https://i.imgur.com/HbcZiFf.png)
+If there is any issues please report them on my discord server: https://discord.gg/dR6ekufKSM
 
 License:
 
 All my assets unless otherwise stated fall under the Creative Commons Attribution 4.0 International (CC BY 4.0) License which means you can use my assets in anyway you want as long as you give me credit! See the full license here: https://creativecommons.org/licenses/by/4.0/
+ 
+
+![alt text](https://i.imgur.com/aPhZy9o.jpg)
+![alt text](https://i.imgur.com/qrpJ5QP.jpg)
+![alt text](https://i.imgur.com/BqC4M6l.jpg)
+![alt text](https://i.imgur.com/gJU7oiY.jpg)
+![alt text](https://i.imgur.com/kltjeQh.jpg)
+
+
