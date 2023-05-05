@@ -1,6 +1,8 @@
 # Jolia's ChilloutVR Prop Pen
 Please make sure you use version 0.3.2 and above, older versions are not supported due to bugs.
 
+NOTICE: AS OF 05/05/2023 I AM NO LONGER MAINTAINING THIS, THIS IS BECAUSE I HAVE TAKEN A BREAK FROM SOCIAL VR GAMES I MAY COME BACK IN THE FUTURE, BUT AS OF RIGHT NOW THE ITEM IS STILL WORKING HOWEVER FUTURE UPDATES TO CVR MAY BREAK IT.
+
 A Pen which is a prop for ChlloutVR
 
 - See my gumroad: https://joliavr.gumroad.com/
