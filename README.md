@@ -1,7 +1,7 @@
 # Rina's ChilloutVR Prop Pen
 
 
-NOTICE: The Pen has been updated to Unity 2021.3.23f1 and to CCK 3.7, hhowever further updates are not guaranteed.
+NOTICE: The Pen has been updated to Unity 2021.3.23f1 and to CCK 3.7, however further updates are not guaranteed.
 
 A Prop Pen for ChlloutVR.
 
