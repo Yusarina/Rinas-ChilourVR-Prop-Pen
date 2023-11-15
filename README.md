@@ -1,18 +1,16 @@
-# Jolia's ChilloutVR Prop Pen
-Please make sure you use version 0.3.2 and above, older versions are not supported due to bugs.
+# Rina's ChilloutVR Prop Pen
 
-NOTICE: AS OF 05/05/2023 I AM NO LONGER MAINTAINING THIS, THIS IS BECAUSE I HAVE TAKEN A BREAK FROM SOCIAL VR GAMES I MAY COME BACK IN THE FUTURE, BUT AS OF RIGHT NOW THE ITEM IS STILL WORKING HOWEVER FUTURE UPDATES TO CVR MAY BREAK IT.
 
+NOTICE: The Pen has been updated to Unity 2021.3.23f1 and to CCK 3.7, hhowever further updates are not guaranteed.
 A Pen which is a prop for ChlloutVR
 
 - See my gumroad: https://joliavr.gumroad.com/
-- See my github: https://github.com/JoliaVR/
-- Join my discord server: https://discord.gg/dR6ekufKSM
+- See my github: https://github.com/Yusarina
 
 Requirements:
 
-- Unity 2019.4.31f1
-- ChilloutVR CCK 3.3
+- Unity 2023.3.23f1
+- ChilloutVR CCK 3.7
 - Basic Unity and CVR knowledge.
 
 This pen has 8 Different Colours: White, Black, Red, Green, Blue, Orange, Purple and Pink, it also has an erase button so you can easily erase any mistakes you make.
@@ -32,7 +30,7 @@ Simply start a new project, import CVR's CCK and Import the Unity Package provid
 
 Issues?
 
-If there is any issues please report them on my discord server: https://discord.gg/dR6ekufKSM
+If there is any issues please report them on cia the issues tab.
 
 License:
 
