@@ -7,6 +7,7 @@ A Prop Pen for ChlloutVR.
 
 - See my gumroad: https://yusarina.gumroad.com
 - See my github: https://github.com/Yusarina
+- See all my social media sites here: https://yusarina.xyz
 
 Requirements:
 
