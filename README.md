@@ -11,7 +11,7 @@ A Prop Pen for ChlloutVR.
 
 Requirements:
 
-- Unity 2023.3.23f1
+- Unity 2021.3.23f1
 - ChilloutVR CCK 3.7
 - Basic Unity and CVR knowledge.
 
